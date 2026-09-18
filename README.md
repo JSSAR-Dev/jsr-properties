@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/jsr-brand-logo.png" alt="JSR Property" width="200">
+<img src="jsr-brand-logo.png" alt="JSR Property" width="200">
 
 # JSR Properties
 
